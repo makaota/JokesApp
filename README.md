@@ -24,10 +24,10 @@
  swipe and shake
  
  # Libraries used
- implementation 'com.github.wenchaojiang:AndroidSwipeableCardStack:0.1.6'
- implementation 'androidx.preference:preference:1.1.1'
- implementation 'com.arasthel:asyncjob-library:1.0.3'
- implementation 'com.daimajia.androidanimations:library:2.4@aar'
+ implementation 'com.github.wenchaojiang:AndroidSwipeableCardStack:0.1.6'\
+ implementation 'androidx.preference:preference:1.1.1'\
+ implementation 'com.arasthel:asyncjob-library:1.0.3'\
+ implementation 'com.daimajia.androidanimations:library:2.4@aar'\
  Androidx support library
  
  
